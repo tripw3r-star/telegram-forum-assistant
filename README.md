@@ -65,7 +65,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/username/telegram-forum-assistant.git
+git clone https://github.com/tripw3r-star/telegram-forum-assistant.git
 cd telegram-forum-assistant
 ```
 
@@ -185,3 +185,4 @@ sudo systemctl start tg-assistant
 
 ## 📄 Лицензия
 MIT License.
+

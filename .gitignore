@@ -1,0 +1,23 @@
+# Секретные ключи и токены (НИКОГДА не коммитить в git!)
+.env
+*.env
+
+# Локальная база данных
+*.db
+*.sqlite3
+
+# Python кэш и окружение
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Логи и временные файлы
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
